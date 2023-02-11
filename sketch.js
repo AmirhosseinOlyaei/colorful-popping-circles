@@ -2,7 +2,7 @@
 // fill each circle with a random color,
 // and display each circle for a quarter of a second before hiding it and displaying the next one:
 
-// 1.
+// 1. Getting all the needed elements in javascript
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
 
